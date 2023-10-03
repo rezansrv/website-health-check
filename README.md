@@ -13,7 +13,10 @@ A simple version of checking the health of websites with bash script.
 
 
 i>If the ret result is: [200] it means that everything is fine.
+
 ii>If the ret result is: [000] it means that the API key or Auth credentials are incorrect.
+
 iii>If the ret result is: [403] it means that client is forbidden from accessing a valid URL and it will retry 5 times and finally exit.
+
 
 
