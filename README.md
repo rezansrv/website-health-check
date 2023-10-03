@@ -3,7 +3,7 @@
 A simple version of checking the health of websites with bash script.
 
 
-# setup
+## setup
 
 1.Download project from github ([https://github.com/Rezansrv/website-health-check]) OR follow gitbash commands to clone projact.
 2.Run Git Bash in the project folder.
